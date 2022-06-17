@@ -26,7 +26,7 @@
 Your brain ran into a problem and needs to restart. We're
 just collecting some error info, and then we'll restart for you.
 
-15% Complete
+69% Complete
 
               For more information about this issue and
               possible fixes, visit
