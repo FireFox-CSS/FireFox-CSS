@@ -35,7 +35,3 @@ just collecting some error info, and then we'll restart for you.
 
 ```
 
-<!---
-FireFox-CSS/FireFox-CSS is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
