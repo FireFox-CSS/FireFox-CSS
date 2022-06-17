@@ -11,9 +11,6 @@
 ### Github Stats
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=FireFox-CSS&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
 
-### Discord Status
-[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/987290615240851526)](https://discord.com/users/987290615240851526)
-
 
 
 <p align="left">
