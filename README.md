@@ -12,7 +12,7 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=FireFox-CSS&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Discord Status
-[![Discord Presence](https://lanyard.cnrad.dev/api/987289498725548072)](https://discord.com/users/987289498725548072)
+[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/987290615240851526)](https://discord.com/users/987290615240851526)
 
 
 
