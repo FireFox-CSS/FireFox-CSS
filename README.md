@@ -1,6 +1,6 @@
 <p align="center">
 
-<img src="http://pixeljoint.com/files/icons/full/mompu2.png"/>
+<img src="http://pixeljoint.com/files/icons/full/mompu2.png" width="158px"/>
 
 </p>
 
