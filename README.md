@@ -4,12 +4,12 @@
 
 </p>
 
-# Info
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=firefox-css&color=grey&style=flat" alt="firefox-css" /> </p>
+<h1 align="center">Info</h1>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=firefox-css&color=grey&style=flat" alt="firefox-css" /> </p>
 
 
 
-## I'm a Student, Game Modder and Developer!!
+<h1 align="center">I'm a Student, Game Modder and Developer!!</h1>
 
 
 - 👋 Hi, I’m @FireFox-CSS
