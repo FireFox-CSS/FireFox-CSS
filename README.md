@@ -1,4 +1,4 @@
-<p align="left">
+<p align="center">
 
 <img src="http://pixeljoint.com/files/icons/full/mompu2.png"/>
 
